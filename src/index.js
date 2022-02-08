@@ -11,7 +11,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-let comingDate = new Date('Feb 8, 2022 13:12:00')
+let comingDate = new Date('Feb 10, 2022 13:12:00')
 
 let d = document.getElementById('days')
 let h = document.getElementById('hours')
